@@ -1,7 +1,7 @@
 var projects = [
     // Название, описание, [категории], ссылка на ленд, ссылка на превью
     // ['','',[''],'','//media.lpgenerator.ru/images/130357/lp-project-.jpg'],
-    ['GSEA1','Участвуй в бизнес-премии GSEA 2015!',['business'],'//design.lpgenerator.ru/klient/biznes/gsea-2015/','//media.lpgenerator.ru/images/130357/lp-project-213.jpg'],
+    ['GSEA','Участвуй в бизнес-премии GSEA 2015!',['business'],'//design.lpgenerator.ru/klient/biznes/gsea-2015/','//media.lpgenerator.ru/images/130357/lp-project-213.jpg'],
     ['EKEN SYNERGY+','Успешный запуск своего бизнеса с нуля',['franchise'],'//design.lpgenerator.ru/klient/franshiza/eken-synergy/','//media.lpgenerator.ru/images/130357/lp-project-62.jpg'],
     ['Искатели приключений','Доход свыше 150 000 рублей уже через 2 месяца',['franchise'],'//design.lpgenerator.ru/klient/franshiza/verevochnyij-park/','//media.lpgenerator.ru/images/130357/lp-project-52.jpg'],
     ['ЭВРИКА клининг','Уборка офисов и коммерческих помещений в Москве',['services'],'//design.lpgenerator.ru/klient/uslugi/evrika-klining/','//media.lpgenerator.ru/images/130357/lp-project-185.jpg'],
