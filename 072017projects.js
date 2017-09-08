@@ -402,7 +402,7 @@ var projects = [
 	['Семейные путешествия','Туроператор семейного отдыха',['tourism'],'//design.lpgenerator.ru/klient/turizm/kompas-kemp/','//media.lpgenerator.ru/images/303631/lp-project-417.jpg'],
 	['ORANGE life solutions','Доступная недвижимость Северного Кипра',['realty'],'//design.lpgenerator.ru/klient/nedvizimost/nedvizhimost-na-kipre/','//media.lpgenerator.ru/images/303631/lp-project-418.jpg'],
 	['Финансовый консультант','Услуги по негосударственному пенсионному страхованию',['services'],'//design.lpgenerator.ru/klient/uslugi/uslugi-po-negosudarstvennomu-pensionnomu-strahovaniyu/','//media.lpgenerator.ru/images/301342/lp-project-419_Z0fmmUi.jpg'],
-	['ИНЖПЛАСТ','Сварочное оборудование для труб ПНД',['product'],'//design.lpgenerator.ru/klient/tovari/svarochnoe-oborudovanie/','//media.lpgenerator.ru/images/301342/lp-project-420.jpg_K3M2rpp'],
+	['ИНЖПЛАСТ','Сварочное оборудование для труб ПНД',['product'],'//design.lpgenerator.ru/klient/tovari/svarochnoe-oborudovanie/','//media.lpgenerator.ru/images/301342/lp-project-420_K3M2rpp.jpg'],
 	['Врач остеопат Гудель Максим','Избавление от болей в позвоночнике за 3 дня',['services'],'//design.lpgenerator.ru/klient/uslugi/osteopat-gudel/','//media.lpgenerator.ru/images/301342/lp-project-421_7HavMCZ.jpg'],
 	['PROFILL DOORS','Межкомнатные и входные двери в г. Москве и области',['product'],'//design.lpgenerator.ru/klient/tovari/profil-doors/','//media.lpgenerator.ru/images/301342/lp-project-422_iRQPXv7.jpg'],
 	['Стальная линия','Входные двери от произодителя "Стальная линия"',['product'],'//design.lpgenerator.ru/klient/tovari/stalnaya-liniya/','//media.lpgenerator.ru/images/301342/lp-project-423_26htmwW.jpg'],
