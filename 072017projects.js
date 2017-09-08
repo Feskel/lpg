@@ -421,7 +421,7 @@ var projects = [
 	['Бамбук','Фабрика одежды для новорожденных',['product'],'//design.lpgenerator.ru/klient/tovari/novorozhdennyye/','//media.lpgenerator.ru/images/301342/lp-project-436.jpg'],
 	['ORCA OPTIMA','Смесители ORCA OPTIMA от российского производителя',['product'],'//design.lpgenerator.ru/klient/tovari/orca-optima/','//media.lpgenerator.ru/images/301342/lp-project-437.jpg'],
 	['Alpeneuro','Заказ такси из отеля до аэропорта',['services'],'//design.lpgenerator.ru/klient/uslugi/oteli/','//media.lpgenerator.ru/images/301342/lp-project-438.jpg'],
-	['ПОЛЕТАЕВ КАРГО','Авиадоставка груза из Китая в Россию и Беларусь',['logistics'],'//design.lpgenerator.ru/klient/uslugi/kargo/','//media.lpgenerator.ru/images/301342/lp-project-439.jpg']
+	['ПОЛЕТАЕВ КАРГО','Авиадоставка груза из Китая в Россию и Беларусь',['trucking'],'//design.lpgenerator.ru/klient/uslugi/kargo/','//media.lpgenerator.ru/images/301342/lp-project-439.jpg']
 ];
 
 for( var index = 0, l = projects.length; index < l; index++ ) {
