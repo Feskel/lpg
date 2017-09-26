@@ -336,7 +336,7 @@ var projects = [
 	['Мастер-алкомастер', 'Качественные алкогольные напитки в домашних условиях', 'Товары', '//design.lpgenerator.ru/klient/tovari/samogonnyij-apparat/', '//media.lpgenerator.ru/images/243663/lp-project-374.jpg'],
 	['Wooder', 'Изготовление дерево-алюминиевых террас по немецким технологиям', 'Товары', '//design.lpgenerator.ru/klient/tovari/derevyannyie-okna/', '//media.lpgenerator.ru/images/243663/lp-project-375.jpg'],
 	['Madal Bal', 'Очистка организма и похудение по швейцарской программе', 'Товары', '//design.lpgenerator.ru/klient/tovari/madal-bal/', '//media.lpgenerator.ru/images/243663/lp-project-376.jpg'],
-	['Fashion Week on-line shop', 'Эксклюзивные копии одежды от FASHION WEEK', 'Стиль и мода', '//design.lpgenerator.ru/klient/moda-i-stil/moda/', '//media.lpgenerator.ru/images/302493/lp-project-61.jpg'],
+	['FashionWeek on-line shop', 'Эксклюзивные копии одежды от FASHIONWEEK', 'Стиль и мода', '//design.lpgenerator.ru/klient/moda-i-stil/moda/', '//media.lpgenerator.ru/images/302493/lp-project-61.jpg'],
 	['Great Moscow Show', 'Самые заметные Hip-Hop/Soul/R&B/Jazz исполнители на одной сцене', 'Развлечения', '//design.lpgenerator.ru/klient/razvlechenia/vecherinki/', '//media.lpgenerator.ru/images/302493/lp-project-119.jpg'],
 	['Народный септик', 'Автономные канализации в СПб и Ленинградской области', 'Товары', '//design.lpgenerator.ru/klient/tovari/septiki-v-spb/', '//media.lpgenerator.ru/images/303631/lp-project-378.jpg'],
 	['Лагуна Юг', 'Комплекс отдыха и развлечений на Горьковском море', 'Услуги', '//design.lpgenerator.ru/klient/uslugi/laguna-yug/', '//media.lpgenerator.ru/images/303631/lp-project-379.jpg'],
