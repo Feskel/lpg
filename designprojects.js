@@ -425,6 +425,6 @@ var projects = [
 	['ПОЛЕТАЕВ КАРГО', 'Авиадоставка груза из Китая в Россию и Беларусь', 'Грузоперевозки', '//design.lpgenerator.ru/klient/uslugi/kargo/', '//media.lpgenerator.ru/images/301342/lp-project-439.jpg']
 ];
 
-for(var i = 0; i < projects.length; i++) projects[i].push(i);
+for(var i = 0; i < projects.length; i++) projects[i].push(i+1);
 
 projects = projects.reverse();
