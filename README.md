@@ -2,6 +2,8 @@
 
 #### //rawgit.com/Feskel/lpg/master/%file_name%
 
-designprojects.js     -   массив клиентских проектов
+designprojects.js     -   Массив клиентских проектов
 
-popupconstructor.js   -   кастомные попапы
+popupconstructor.js   -   Кастомные попапы
+
+sublabelfix.js        -   Клики по меткам переключателей и флажков
