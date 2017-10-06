@@ -6,4 +6,4 @@ designprojects.js     -   Массив клиентских проектов
 
 popupconstructor.js   -   Кастомные попапы
 
-sublabelfix.js        -   Клики по меткам переключателей и флажков
+sublabelfix.js        -   Фикс кликов для меток переключателей и флажков
