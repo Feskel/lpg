@@ -422,7 +422,10 @@ var projects = [
 	['Бамбук', 'Фабрика одежды для новорожденных', 'Товары', '//design.lpgenerator.ru/klient/tovari/novorozhdennyye/', '//media.lpgenerator.ru/images/301342/lp-project-436.jpg'],
 	['ORCA OPTIMA', 'Смесители ORCA OPTIMA от российского производителя', 'Товары', '//design.lpgenerator.ru/klient/tovari/orca-optima/', '//media.lpgenerator.ru/images/301342/lp-project-437.jpg'],
 	['Alpeneuro', 'Заказ такси из отеля до аэропорта', 'Услуги', '//design.lpgenerator.ru/klient/uslugi/oteli/', '//media.lpgenerator.ru/images/301342/lp-project-438.jpg'],
-	['ПОЛЕТАЕВ КАРГО', 'Авиадоставка груза из Китая в Россию и Беларусь', 'Грузоперевозки', '//design.lpgenerator.ru/klient/uslugi/kargo/', '//media.lpgenerator.ru/images/301342/lp-project-439.jpg']
+	['ПОЛЕТАЕВ КАРГО', 'Авиадоставка груза из Китая в Россию и Беларусь', 'Грузоперевозки', '//design.lpgenerator.ru/klient/uslugi/kargo/', '//media.lpgenerator.ru/images/301342/lp-project-439.jpg'],
+	['TalkBank', 'Первый банк в мессенджерах', 'Услуги', '//design.lpgenerator.ru/klient/uslugi/tolkfinans/', '//media.lpgenerator.ru/images/301342/joxiscreenshot1510143725774.jpg'],
+	['PMoffice', 'Зарабатывай управляя проектами в единой системе', 'Автоматизация', '//design.lpgenerator.ru/klient/avtomatizatchija/iq300/', '//media.lpgenerator.ru/images/301342/joxiscreenshot1510143770333.jpg'],
+	['АвтоРеалти', 'Деньги под залог ПТС автомобиля', 'Услуги', '//design.lpgenerator.ru/klient/uslugi/avtorealti/', '//media.lpgenerator.ru/images/301342/joxiscreenshot1510143783824.jpg']
 ];
 
 for(var i = 0; i < projects.length; i++) projects[i].push(i);
