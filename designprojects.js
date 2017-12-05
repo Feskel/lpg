@@ -425,7 +425,13 @@ var projects = [
 	['ПОЛЕТАЕВ КАРГО', 'Авиадоставка груза из Китая в Россию и Беларусь', 'Грузоперевозки', '//design.lpgenerator.ru/klient/uslugi/kargo/', '//media.lpgenerator.ru/images/301342/lp-project-439.jpg'],
 	['TalkBank', 'Первый банк в мессенджерах', 'Услуги', '//design.lpgenerator.ru/klient/uslugi/tolkfinans/', '//media.lpgenerator.ru/images/301342/joxiscreenshot1510143725774.jpg'],
 	['PMoffice', 'Зарабатывай управляя проектами в единой системе', 'Автоматизация', '//design.lpgenerator.ru/klient/avtomatizatchija/iq300/', '//media.lpgenerator.ru/images/301342/joxiscreenshot1510143770333.jpg'],
-	['АвтоРеалти', 'Деньги под залог ПТС автомобиля', 'Услуги', '//design.lpgenerator.ru/klient/uslugi/avtorealti/', '//media.lpgenerator.ru/images/301342/joxiscreenshot1510143783824.jpg']
+	['АвтоРеалти', 'Деньги под залог ПТС автомобиля', 'Услуги', '//design.lpgenerator.ru/klient/uslugi/avtorealti/', '//media.lpgenerator.ru/images/301342/joxiscreenshot1510143783824.jpg'],
+	['TransTechnoGroup', 'Доставка сборных грузов по всей России', 'Грузоперевозки', '//design.lpgenerator.ru/klient/gruzoperevozki/sbornyie-gruzyi-ttg/', '//media.lpgenerator.ru/images/301342/joxiscreenshot1512465973695.png'],
+	['АРМ АВТО', 'Диагностика, ремонт и обслуживание Mazda и Ford', 'Услуги', '//design.lpgenerator.ru/klient/uslugi/arm-auto-fordmazda/', '//media.lpgenerator.ru/images/301342/joxiscreenshot1512465973695-1.png'],
+	['Чистка ковров', 'Вернем коврам первозданный вид', 'Услуги', '//design.lpgenerator.ru/klient/uslugi/chistka-kovrov-v-rostov-na-donu-i-oblasti/', '//media.lpgenerator.ru/images/301342/joxiscreenshot1512465973695-2.png'],
+	['Автогалактика Москва', 'Выдача автокредита в день обращения', 'Займы/кредиты', '//design.lpgenerator.ru/klient/kredit/avtogalaktika-kreditovanie-avtomobilej/', '//media.lpgenerator.ru/images/301342/joxiscreenshot1512465973695-3.png'],
+	['Строй За', 'Газобетонные блоки от производителя', 'Недвижимость', '//design.lpgenerator.ru/klient/nedvizimost/yunistroj/', '//media.lpgenerator.ru/images/301342/joxiscreenshot1512465973695-4.png'],
+	['G- Гинекология с удовольствием', 'Современная гинекологическая клиника', 'Здоровье', '//design.lpgenerator.ru/klient/sdorovie/ginekologicheskaya-klinika/', '//media.lpgenerator.ru/images/301342/joxiscreenshot1512465973695-5.png']
 ];
 
 for(var i = 0; i < projects.length; i++) projects[i].push(i);
