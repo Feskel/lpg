@@ -273,7 +273,6 @@ var projects = [
 	['1С', 'Формируйте и сдавайте отчетность без ошибок и штрафов', 'Услуги', '//design.lpgenerator.ru/klient/buhuslugi/1s/', '//media.lpgenerator.ru/images/243663/lp-project-371.jpg'],
 	['QWERT', 'Ремонт и обслуживание лазерных принтеров в Москве', 'Услуги', '//design.lpgenerator.ru/klient/uslugi/remont-laz-printerov/', '//media.lpgenerator.ru/images/243663/lp-project-372.jpg'],
 	['УГОЛЬЭНЕРГО', 'Атрацит всех сортов напрямую с месторрждений', 'Производство', '//design.lpgenerator.ru/klient/proizvodstvo/ugol/', '//media.lpgenerator.ru/images/243663/lp-project-316.jpg'],
-	['ПРОКОМФОРТ', 'Ремонт квартир в Москве и Московской области', 'Услуги', '//design.lpgenerator.ru/klient/uslugi/remont-kvartir-ofisov-kottedzhej/', '//media.lpgenerator.ru/images/243663/lp-project-310.jpg'],
 	['Сервис "Кушать подано"', 'Приготовление ресторанного блюда дома', 'Услуги', '//design.lpgenerator.ru/klient/uslugi/restoran-domaobninsk/', '//media.lpgenerator.ru/images/243663/lp-project-285.jpg'],
 	['Camperia', 'Уютный дом на колесах BLUCAMP', 'Товары', '//design.lpgenerator.ru/klient/tovari/avtodom/', '//media.lpgenerator.ru/images/243663/lp-project-284.jpg'],
 	['Digital diesel', 'Автосканер MaxiSys Mini', 'Товары', '//design.lpgenerator.ru/klient/tovari/dizel/', '//media.lpgenerator.ru/images/243663/lp-project-283.jpg'],
