@@ -90,7 +90,6 @@ var projects = [
 	['Элитная парфюмерия из ОАЭ', 'Насладитесь изысканными и утончёнными ароматами', 'Товары', '//design.lpgenerator.ru/klient/tovari/parfyum/', '//media.lpgenerator.ru/images/243663/lp-project-139.jpg'],
 	['irrigate.ru', 'Системы автоматического полива', 'Товары', '//design.lpgenerator.ru/klient/tovari/bms/', '//media.lpgenerator.ru/images/243663/lp-project-135.jpg'],
 	['OMTEX', 'Жесткие и гибкие технические эндоскопы', 'Товары', '//design.lpgenerator.ru/klient/tovari/zhestkie-i-gibkie-endoskopyi/', '//media.lpgenerator.ru/images/243663/lp-project-129.jpg'],
-	['uch-book.ru', 'Оптовая продажа школьных учебников', 'Товары', '//design.lpgenerator.ru/klient/tovari/knigi/', '//media.lpgenerator.ru/images/243663/lp-project-128.jpg'],
 	['gadget', 'Оригинальная экшн-камера GOPRO HERO3+ BLACK EDITION', 'Товары', '//design.lpgenerator.ru/klient/tovari/kameryi/', '//media.lpgenerator.ru/images/243663/lp-project-125.jpg'],
 	['Printer Art', 'Принтер для печати на ногтях', 'Товары', '//design.lpgenerator.ru/klient/tovari/printer-art/', '//media.lpgenerator.ru/images/243663/lp-project-123.jpg'],
 	['Чехлы и тенты для авто', 'Защитные чехлы-тенты на кузов автомобиля от 3 520 руб.', 'Товары', '//design.lpgenerator.ru/klient/tovari/chehol-tent-dlya-avto/', '//media.lpgenerator.ru/images/243663/lp-project-121.jpg'],
